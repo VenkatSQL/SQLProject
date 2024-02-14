@@ -1,0 +1,10 @@
+2/14/2024 7:23:43 PM	This log contains information about the import schema operation into project 'SQLGit' on computer 'DESKTOP-UP8N5KM' by user 'venkatesh'.
+2/14/2024 7:23:43 PM	Deserializing model
+2/14/2024 7:23:43 PM	Resolving model
+2/14/2024 7:23:43 PM	Visiting imported model for types
+2/14/2024 7:23:43 PM	Scanning project for duplicate elements
+2/14/2024 7:23:43 PM	Finished duplicate element processing
+2/14/2024 7:23:43 PM	Processing extra files
+2/14/2024 7:23:43 PM	Finished importing Data-tier Application file.
+2/14/2024 7:23:43 PM	A summary of the import was saved to the following location: F:\Git\SQLGit\Import Schema Logs\SQLGit_20240214015343.log
+2/14/2024 7:23:43 PM	Click Finish to continue...
